@@ -9,6 +9,9 @@
   display: inline-block;
 
 }
+.button{
+  margin-top: 20px;
+}
 
 body {
   background-color: #393E46;
@@ -32,6 +35,15 @@ img {
   width: 80%;
 }
 
+button{
+  background-color: #3a0088;
+  border:none;
+  border-radius: 25px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 15px;
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
